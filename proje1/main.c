@@ -77,7 +77,7 @@ void draw_coordinate()
     }
 }
 
-//noktalar çemberin içinde mi kontrolü
+//verilen noktalar çemberin içinde mi kontrolü yapiliyor
 bool is_inside(float merkezi[2], int dizi[][2], float r,int satirrr)
 {
 
